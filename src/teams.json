@@ -1,12 +1,12 @@
 {
   "results": [
     {
-      "team-name": "Los Angeles Lakers",
+      "teamName": "Los Angeles Lakers",
       "founded": 1947,
       "location": "Los Angeles, California",
       "conference": "Western",
       "divison": "Pacific",
-      "team-colors": {
+      "teamColors": {
         "first": "Purple",
         "second": "Gold",
         "third": "Black"
@@ -26,16 +26,16 @@
         "second": "Detroit Pistons",
         "third": "Golden State Warriors"
       },
-      "retired-number": [8, 13, 16, 22, 24, 25, 32, 33, 34, 42, 44, 52, 99],
-      "picture-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1280px-Los_Angeles_Lakers_logo.svg.png"
+      "retiredNumber": [8, 13, 16, 22, 24, 25, 32, 33, 34, 42, 44, 52, 99],
+      "pictureLogo": "https://www.freepnglogos.com/uploads/lakers-logo-png/lakers-free-hd-logo-png-2.png"
     },
     {
-      "team-name": "Golden State Warriors",
+      "teamName": "Golden State Warriors",
       "founded": 1946,
       "location": "San Francisco, California",
       "conference": "Western",
       "divison": "Pacific",
-      "team-colors": {
+      "teamColors": {
         "first": "Royal blue",
         "second": "Yellow",
         "third": null
@@ -52,16 +52,16 @@
         "second": "Los Angeles Lakers",
         "third": null
       },
-      "retired-number": [13, 14, 16, 17, 24, 42],
-      "picture-logo": "https://logos-world.net/wp-content/uploads/2020/05/Golden-State-Warriors-logo.png"
+      "retiredNumber": [13, 14, 16, 17, 24, 42],
+      "pictureLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png"
     },
     {
-      "team-name": "Sacramento Kings",
+      "teamName": "Sacramento Kings",
       "founded": 1923,
       "location": "Sacramento, California",
       "conference": "Western",
       "divison": "Pacific",
-      "team-colors": {
+      "teamColors": {
         "first": "Purple",
         "second": "Grey",
         "third": "Black"
@@ -78,16 +78,16 @@
         "second": "Los Angeles Lakers",
         "third": null
       },
-      "retired-number": [1, 2, 4, 6, 11, 12, 14, 16, 21, 27, 44],
-      "picture-logo": "https://cdn.freebiesupply.com/images/large/2x/sacramento-kings-logo-transparent.png"
+      "retiredNumber": [1, 2, 4, 6, 11, 12, 14, 16, 21, 27, 44],
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/sacramento-kings-logo-transparent.png"
     },
     {
-      "team-name": "Phoenix Suns",
+      "teamName": "Phoenix Suns",
       "founded": 1968,
       "location": "Phoenix, Arizona",
       "conference": "Western",
       "divison": "Pacific",
-      "team-colors": {
+      "teamColors": {
         "first": "Purple",
         "second": "Orange",
         "third": "Black"
@@ -104,16 +104,16 @@
         "second": null,
         "third": null
       },
-      "retired-number": [5, 6, 7, 33, 42, 44],
-      "picture-logo": "https://logos-world.net/wp-content/uploads/2020/05/Phoenix-Suns-logo.png"
+      "retiredNumber": [5, 6, 7, 33, 42, 44],
+      "pictureLogo": "https://seeklogo.com/images/P/phoenix-suns-logo-489F9D1F84-seeklogo.com.png"
     },
     {
-      "team-name": "Los Angeles Clippers",
+      "teamName": "Los Angeles Clippers",
       "founded": 1970,
       "location": "Los Angeles, California",
       "conference": "Western",
       "divison": "Pacific",
-      "team-colors": {
+      "teamColors": {
         "first": "Royal blue",
         "second": "Red",
         "third": "White"
@@ -130,16 +130,16 @@
         "second": null,
         "third": null
       },
-      "retired-number": null,
-      "picture-logo": "https://logos-download.com/wp-content/uploads/2016/04/LA_Clippers_logo_logotype_emblem.png"
+      "retiredNumber": null,
+      "pictureLogo": "https://logos-download.com/wp-content/uploads/2016/04/LA_Clippers_logo_logotype_emblem.png"
     },
     {
-      "team-name": "Dallas Mavericks",
+      "teamName": "Dallas Mavericks",
       "founded": 1980,
       "location": "Dallas, Texas",
       "conference": "Western",
       "divison": "Southwest",
-      "team-colors": {
+      "teamColors": {
         "first": "Royal blue",
         "second": "Navy blue",
         "third": "Silver"
@@ -156,16 +156,16 @@
         "second": "San Antonio Spurs",
         "third": "Phoenix Suns"
       },
-      "retired-number": [12, 15, 22, 41],
-      "picture-logo": "https://assets.stickpng.com/images/58419cd6a6515b1e0ad75a68.png"
+      "retiredNumber": [12, 15, 22, 41],
+      "pictureLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dallas_Mavericks_logo.svg/1200px-Dallas_Mavericks_logo.svg.png"
     },
     {
-      "team-name": "San Antonio Spurs",
+      "teamName": "San Antonio Spurs",
       "founded": 1967,
       "location": "San Antonio, Texas",
       "conference": "Western",
       "divison": "Southwest",
-      "team-colors": {
+      "teamColors": {
         "first": "Silver",
         "second": "Black",
         "third": null
@@ -182,16 +182,16 @@
         "second": "Dallas Mavericks",
         "third": "Phoenix Suns"
       },
-      "retired-number": [0, 6, 9, 12, 13, 20, 21, 32, 44, 50],
-      "picture-logo": "https://assets.stickpng.com/images/58419cbca6515b1e0ad75a66.png"
+      "retiredNumber": [0, 6, 9, 12, 13, 20, 21, 32, 44, 50],
+      "pictureLogo": "https://1000logos.net/wp-content/uploads/2018/01/San-Antonio-Spurs-logo.png"
     },
     {
-      "team-name": "New Orleans Pelicans",
+      "teamName": "New Orleans Pelicans",
       "founded": 2002,
       "location": "New Orleans, Louisiana",
       "conference": "Western",
       "divison": "Southwest",
-      "team-colors": {
+      "teamColors": {
         "first": "Navy Blue",
         "second": "Gold",
         "third": "Red"
@@ -208,16 +208,16 @@
         "second": null,
         "third": null
       },
-      "retired-number": [7],
-      "picture-logo": "https://cdn.freebiesupply.com/images/large/2x/new-orleans-pelicans-logo-transparent.png"
+      "retiredNumber": [7],
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/new-orleans-pelicans-logo-transparent.png"
     },
     {
-      "team-name": "Memphis Grizzlies",
+      "teamName": "Memphis Grizzlies",
       "founded": 1995,
       "location": "Memphis, Tennessee",
       "conference": "Western",
       "divison": "Southwest",
-      "team-colors": {
+      "teamColors": {
         "first": "Blue",
         "second": "Gray",
         "third": "Gold"
@@ -234,16 +234,16 @@
         "second": "Oklahoma City Thunder",
         "third": "San Antonio Spurs"
       },
-      "retired-number": [50],
-      "picture-logo": "https://assets.stickpng.com/images/58419c00a6515b1e0ad75a5a.png"
+      "retiredNumber": [50],
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/memphis-grizzlies-logo-transparent.png"
     },
     {
-      "team-name": "Houston Rockets",
+      "teamName": "Houston Rockets",
       "founded": 1967,
       "location": "Houston, Texas",
       "conference": "Western",
       "divison": "Southwest",
-      "team-colors": {
+      "teamColors": {
         "first": "Red",
         "second": "Black",
         "third": "Gray"
@@ -260,16 +260,16 @@
         "second": "Golden State Warriors",
         "third": "Los Angeles Lakers"
       },
-      "retired-number": [11, 22, 23, 24, 34, 44, 45],
-      "picture-logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Houston_Rockets.svg/1200px-Houston_Rockets.svg.png"
+      "retiredNumber": [11, 22, 23, 24, 34, 44, 45],
+      "pictureLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Houston_Rockets.svg/1200px-Houston_Rockets.svg.png"
     },
     {
-      "team-name": "Denver Nuggets",
+      "teamName": "Denver Nuggets",
       "founded": 1967,
       "location": "Denver, Colorado",
       "conference": "Western",
       "divison": "Northwest",
-      "team-colors": {
+      "teamColors": {
         "first": "Midnight blue",
         "second": "Sunshine yellow",
         "third": "Flatirons red"
@@ -286,16 +286,16 @@
         "second": "Minnesota Timberwolves",
         "third": "Philadelphia 76ers"
       },
-      "retired-number": [2, 12, 33, 40, 44, 55, 432],
-      "picture-logo": "https://logos-world.net/wp-content/uploads/2020/05/Denver-Nuggets-Logo.png"
+      "retiredNumber": [2, 12, 33, 40, 44, 55, 432],
+      "pictureLogo": "https://logodownload.org/wp-content/uploads/2021/07/denver-nuggets-logo-1.png"
     },
     {
-      "team-name": "Minnesota Timberwolves",
+      "teamName": "Minnesota Timberwolves",
       "founded": 1989,
       "location": "Minneapolis, Minnesota",
       "conference": "Western",
       "divison": "Northwest",
-      "team-colors": {
+      "teamColors": {
         "first": "Midnight blue",
         "second": "Lake blue",
         "third": "Grey"
@@ -312,16 +312,16 @@
         "second": "Chicago Bulls",
         "third": null
       },
-      "retired-number": [2],
-      "picture-logo": "https://cdn.freebiesupply.com/images/large/2x/minnesota-timberwolves-logo-transparent.png"
+      "retiredNumber": [2],
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/minnesota-timberwolves-logo-transparent.png"
     },
     {
-      "team-name": "Oklahoma City Thunder",
+      "teamName": "Oklahoma City Thunder",
       "founded": 1967,
       "location": "Oklahoma City, Oklahoma",
       "conference": "Western",
       "divison": "Northwest",
-      "team-colors": {
+      "teamColors": {
         "first": "Thunder blue",
         "second": "Sunset",
         "third": "Yellow"
@@ -338,16 +338,16 @@
         "second": "Golden State Warriors",
         "third": null
       },
-      "retired-number": [1, 4, 10, 19, 24, 32, 43],
-      "picture-logo": "https://cdn.freebiesupply.com/images/large/2x/oklahoma-city-thunder-logo-transparent.png"
+      "retiredNumber": [1, 4, 10, 19, 24, 32, 43],
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/oklahoma-city-thunder-logo-transparent.png"
     },
     {
-      "team-name": "Portland Trail Blazers",
+      "teamName": "Portland Trail Blazers",
       "founded": 1970,
       "location": "Portland, Oregon",
       "conference": "Western",
       "divison": "Northwest",
-      "team-colors": {
+      "teamColors": {
         "first": "Red",
         "second": "Black",
         "third": "White"
@@ -364,16 +364,16 @@
         "second": null,
         "third": null
       },
-      "retired-number": [1, 13, 14, 15, 20, 22, 30, 30, 32, 36, 45, 77],
-      "picture-logo": "https://cdn.freebiesupply.com/images/large/2x/portland-trail-blazers-logo-transparent.png"
+      "retiredNumber": [1, 13, 14, 15, 20, 22, 30, 30, 32, 36, 45, 77],
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/portland-trail-blazers-logo-transparent.png"
     },
     {
-      "team-name": "Utah Jazz",
+      "teamName": "Utah Jazz",
       "founded": 1974,
       "location": "Salt Lake City, Utah",
       "conference": "Western",
       "divison": "Northwest",
-      "team-colors": {
+      "teamColors": {
         "first": "Spotlight yellow",
         "second": "Black",
         "third": "Gray"
@@ -390,16 +390,16 @@
         "second": "Portland Trail Blazers",
         "third": "San Antonio Spurs"
       },
-      "retired-number": [1, 4, 7, 9, 12, 14, 32, 35, 53, 1223],
-      "picture-logo": "https://logodownload.org/wp-content/uploads/2021/07/utah-jazz-logo-0.png"
+      "retiredNumber": [1, 4, 7, 9, 12, 14, 32, 35, 53, 1223],
+      "pictureLogo": "https://logodownload.org/wp-content/uploads/2021/07/utah-jazz-logo-0.png"
     },
     {
-      "team-name": "Atlanta Hawks",
+      "teamName": "Atlanta Hawks",
       "founded": 1946,
       "location": "Atlanta, Georgia",
       "conference": "Eastern",
       "divison": "Southeast",
-      "team-colors": {
+      "teamColors": {
         "first": "Torch Red",
         "second": "Legacy Yellow",
         "third": "Black"
@@ -416,16 +416,16 @@
         "second": "Orlando Magic",
         "third": null
       },
-      "retired-number": [9, 21, 23, 44, 55, 59],
-      "picture-logo": "https://cdn.freebiesupply.com/images/large/2x/atlanta-hawks-logo-transparent.png"
+      "retiredNumber": [9, 21, 23, 44, 55, 59],
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/atlanta-hawks-logo-transparent.png"
     },
     {
-      "team-name": "Charlotte Hornets",
+      "teamName": "Charlotte Hornets",
       "founded": 1988,
       "location": "Charlotte, North Carolina",
       "conference": "Eastern",
       "divison": "Southeast",
-      "team-colors": {
+      "teamColors": {
         "first": "Hornet Teal",
         "second": "Dark Purple",
         "third": "Gray"
@@ -442,16 +442,16 @@
         "second": "Atlanta Hawks",
         "third": "Miami Heat"
       },
-      "retired-number": [13],
-      "picture-logo": "https://cdn.freebiesupply.com/images/large/2x/charlotte-hornets-logo-transparent.png"
+      "retiredNumber": [13],
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/charlotte-hornets-logo-transparent.png"
     },
     {
-      "team-name": "Miami Heat",
+      "teamName": "Miami Heat",
       "founded": 1988,
       "location": "Miami, Florida",
       "conference": "Eastern",
       "divison": "Southeast",
-      "team-colors": {
+      "teamColors": {
         "first": "Black",
         "second": "Red",
         "third": "Yellow"
@@ -468,16 +468,16 @@
         "second": "Chicago Bulls",
         "third": "Orlando Magic"
       },
-      "retired-number": [1, 3, 10, 23, 32, 33],
-      "picture-logo": "https://cdn.freebiesupply.com/images/thumbs/2x/miami-heat-logo.png"
+      "retiredNumber": [1, 3, 10, 23, 32, 33],
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/miami-heat-logo-transparent.png"
     },
     {
-      "team-name": "Orlando Magic",
+      "teamName": "Orlando Magic",
       "founded": 1989,
       "location": "Orlando, Florida",
       "conference": "Eastern",
       "divison": "Southeast",
-      "team-colors": {
+      "teamColors": {
         "first": "Blue",
         "second": "Black",
         "third": "Sliver"
@@ -494,16 +494,16 @@
         "second": "Atlanta Hawks",
         "third": null
       },
-      "retired-number": [6],
-      "picture-logo": "https://logodownload.org/wp-content/uploads/2021/07/orlando-magic-logo-0.png"
+      "retiredNumber": [6],
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/orlando-magic-logo-black-and-white.png"
     },
     {
-      "team-name": "Washington Wizards",
+      "teamName": "Washington Wizards",
       "founded": 1961,
       "location": "Washington, D.C.",
       "conference": "Eastern",
       "divison": "Southeast",
-      "team-colors": {
+      "teamColors": {
         "first": "Navy Blue",
         "second": "Red",
         "third": "Silver"
@@ -520,16 +520,16 @@
         "second": "Boston Celtics",
         "third": "Toronto Raptors"
       },
-      "retired-number": [10, 11, 25, 41, 45],
-      "picture-logo": "https://assets.stickpng.com/images/58419c12a6515b1e0ad75a5b.png"
+      "retiredNumber": [10, 11, 25, 41, 45],
+      "pictureLogo": "https://assets.stickpng.com/images/58419c12a6515b1e0ad75a5b.png"
     },
     {
-      "team-name": "Chicago Bulls",
+      "teamName": "Chicago Bulls",
       "founded": 1966,
       "location": "Chicago, Illinois",
       "conference": "Eastern",
       "divison": "Central",
-      "team-colors": {
+      "teamColors": {
         "first": "Red",
         "second": "Black",
         "third": null
@@ -546,16 +546,16 @@
         "second": "Detroit Pistons",
         "third": "Miami Heat"
       },
-      "retired-number": [4, 10, 23, 33],
-      "picture-logo": "https://cdn.freebiesupply.com/images/large/2x/chicago-bulls-logo-transparent.png"
+      "retiredNumber": [4, 10, 23, 33],
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/chicago-bulls-logo-transparent.png"
     },
     {
-      "team-name": "Cleveland Cavaliers",
+      "teamName": "Cleveland Cavaliers",
       "founded": 1970,
       "location": "Cleveland, Ohio",
       "conference": "Eastern",
       "divison": "Central",
-      "team-colors": {
+      "teamColors": {
         "first": "Wine",
         "second": "Gold",
         "third": "Black"
@@ -572,16 +572,16 @@
         "second": "Golden State Warriors",
         "third": null
       },
-      "retired-number": [7, 11, 22, 25, 34, 42, 43],
-      "picture-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cleveland_Cavaliers_logo.svg/2378px-Cleveland_Cavaliers_logo.svg.png"
+      "retiredNumber": [7, 11, 22, 25, 34, 42, 43],
+      "pictureLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cleveland_Cavaliers_logo.svg/2378px-Cleveland_Cavaliers_logo.svg.png"
     },
     {
-      "team-name": "Detroit Pistons",
+      "teamName": "Detroit Pistons",
       "founded": 1937,
       "location": "Detroit, Michigan",
       "conference": "Eastern",
       "divison": "Central",
-      "team-colors": {
+      "teamColors": {
         "first": "Royal Blue",
         "second": "Red",
         "third": "White"
@@ -598,16 +598,16 @@
         "second": "Boston Celtics",
         "third": "Los Angeles Lakers"
       },
-      "retired-number": [1, 2, 3, 4, 10, 11, 15, 16, 21, 32, 40],
-      "picture-logo": "https://cdn.freebiesupply.com/images/large/2x/detroit-pistons-logo-transparent.png"
+      "retiredNumber": [1, 2, 3, 4, 10, 11, 15, 16, 21, 32, 40],
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/detroit-pistons-logo-transparent.png"
     },
     {
-      "team-name": "Indiana Pacers",
+      "teamName": "Indiana Pacers",
       "founded": 1967,
       "location": "Indianapolis, Indiana",
       "conference": "Eastern",
       "divison": "Central",
-      "team-colors": {
+      "teamColors": {
         "first": "Navy Blue",
         "second": "Gold",
         "third": "Cool Gray"
@@ -624,16 +624,16 @@
         "second": "New York Knicks",
         "third": "Miami Heat"
       },
-      "retired-number": [30, 31, 34, 35, 529],
-      "picture-logo": "https://static.cdnlogo.com/logos/i/40/indiana-pacers.png"
+      "retiredNumber": [30, 31, 34, 35, 529],
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/indiana-pacers-logo-transparent.png"
     },
     {
-      "team-name": "Milwaukee Bucks",
+      "teamName": "Milwaukee Bucks",
       "founded": 1968,
       "location": "Milwaukee, Wisconsin",
       "conference": "Eastern",
       "divison": "Central",
-      "team-colors": {
+      "teamColors": {
         "first": "Good Land Green",
         "second": "Cream City Cream",
         "third": "Black"
@@ -650,16 +650,16 @@
         "second": "Philadelphia 76ers",
         "third": "Boston Celtics"
       },
-      "retired-number": [1, 2, 4, 8, 10, 14, 16, 32, 33],
-      "picture-logo": "https://cdn.freebiesupply.com/images/large/2x/milwaukee-bucks-logo-transparent.png"
+      "retiredNumber": [1, 2, 4, 8, 10, 14, 16, 32, 33],
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/milwaukee-bucks-logo-transparent.png"
     },
     {
-      "team-name": "Toronto Raptors",
+      "teamName": "Toronto Raptors",
       "founded": 1995,
       "location": "Toronto, Ontario",
       "conference": "Eastern",
       "divison": "Atlantic",
-      "team-colors": {
+      "teamColors": {
         "first": "Red",
         "second": "Black",
         "third": "White"
@@ -676,16 +676,16 @@
         "second": "New York Knicks",
         "third": null
       },
-      "retired-number": [6],
-      "picture-logo": "https://cdn.freebiesupply.com/images/large/2x/toronto-raptors-logo-transparent.png"
+      "retiredNumber": [6],
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/toronto-raptors-logo-transparent.png"
     },
     {
-      "team-name": "Philadelphia 76ers",
+      "teamName": "Philadelphia 76ers",
       "founded": 1946,
       "location": "Philadelphia, Pennsylvania",
       "conference": "Eastern",
       "divison": "Atlantic",
-      "team-colors": {
+      "teamColors": {
         "first": "Blue",
         "second": "Red",
         "third": "White"
@@ -702,16 +702,16 @@
         "second": null,
         "third": null
       },
-      "retired-number": [2, 3, 4, 6, 10, 13, 15, 24, 32, 34],
-      "picture-logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/1200px-Philadelphia_76ers_logo.svg.png"
+      "retiredNumber": [2, 3, 4, 6, 10, 13, 15, 24, 32, 34],
+      "pictureLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/1200px-Philadelphia_76ers_logo.svg.png"
     },
     {
-      "team-name": "New York Knicks",
+      "teamName": "New York Knicks",
       "founded": 1946,
       "location": "New York City, New York",
       "conference": "Eastern",
       "divison": "Atlantic",
-      "team-colors": {
+      "teamColors": {
         "first": "Royal Blue",
         "second": "Orange",
         "third": "White"
@@ -728,16 +728,16 @@
         "second": "Brooklyn Nets",
         "third": "Chicago Bulls"
       },
-      "retired-number": [10, 12, 15, 15, 19, 22, 24, 33, 613],
-      "picture-logo": "https://cdn.freebiesupply.com/images/large/2x/new-york-knicks-logo-transparent.png"
+      "retiredNumber": [10, 12, 15, 15, 19, 22, 24, 33, 613],
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/new-york-knicks-logo-transparent.png"
     },
     {
-      "team-name": "Brooklyn Nets",
+      "teamName": "Brooklyn Nets",
       "founded": 1967,
       "location": "Brooklyn, New York",
       "conference": "Eastern",
       "divison": "Atlantic",
-      "team-colors": {
+      "teamColors": {
         "first": "Black",
         "second": "White",
         "third": "Dark Gray"
@@ -754,16 +754,16 @@
         "second": "New York Knicks",
         "third": "Toronto Raptors"
       },
-      "retired-number": [3, 5, 23, 25, 32, 52],
-      "picture-logo": "https://assets.stickpng.com/images/58419c7ba6515b1e0ad75a62.png"
+      "retiredNumber": [3, 5, 23, 25, 32, 52],
+      "pictureLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/1200px-Brooklyn_Nets_newlogo.svg.png"
     },
     {
-      "team-name": "Boston Celtics",
+      "teamName": "Boston Celtics",
       "founded": 1946,
       "location": "Boston, Massachusetts",
       "conference": "Eastern",
       "divison": "Atlantic",
-      "team-colors": {
+      "teamColors": {
         "first": "Green",
         "second": "White",
         "third": "Black"
@@ -783,11 +783,11 @@
         "second": "Atlanta Hawks",
         "third": "Brooklyn Nets"
       },
-      "retired-number": [
+      "retiredNumber": [
         0, 1, 2, 3, 5, 6, 10, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 31,
         32, 33, 34, 35, 18
       ],
-      "picture-logo": "https://cdn.freebiesupply.com/images/large/2x/boston-celtics-logo-transparent.png"
+      "pictureLogo": "https://cdn.freebiesupply.com/images/large/2x/boston-celtics-logo-transparent.png"
     }
   ]
 }
