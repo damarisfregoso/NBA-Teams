@@ -1,4 +1,4 @@
-import Divison from './Division'
+import Division from './Division'
 
 const Team = (props) => {
   return (

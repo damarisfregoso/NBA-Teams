@@ -1,14 +1,14 @@
 import teams from '../teams.json'
 import Team from './Team'
 
-const Divison = (props) => {
+const division = (props) => {
   return (
-    <div className="divison">
+    <div className="division">
       <h1>{props.name}</h1>
       <div className="teams">
         {teams.results
           .filter((team) => {
-            return team.divison === props.name
+            return team.division === props.name
           })
           .map((team) => (
             <Team team={team} />
@@ -18,4 +18,4 @@ const Divison = (props) => {
   )
 }
 
-export default Divison
+export default division

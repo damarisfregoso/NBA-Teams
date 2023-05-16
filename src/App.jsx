@@ -1,6 +1,6 @@
 import './App.css'
 import SideBar from './components/SideBar'
-import Divison from './components/Division'
+import Division from './components/Division'
 
 const App = () => {
   const divisions = [
@@ -18,7 +18,7 @@ const App = () => {
       </header>
       <div className="info">
         {divisions.map((division) => (
-          <Divison name={division} />
+          <Division name={division} />
         ))}
         <SideBar />
       </div>

@@ -5,7 +5,7 @@
       "founded": 1947,
       "location": "Los Angeles, California",
       "conference": "Western",
-      "divison": "Pacific",
+      "division": "Pacific",
       "teamColors": {
         "first": "Purple",
         "second": "Gold",
@@ -34,7 +34,7 @@
       "founded": 1946,
       "location": "San Francisco, California",
       "conference": "Western",
-      "divison": "Pacific",
+      "division": "Pacific",
       "teamColors": {
         "first": "Royal blue",
         "second": "Yellow",
@@ -60,7 +60,7 @@
       "founded": 1923,
       "location": "Sacramento, California",
       "conference": "Western",
-      "divison": "Pacific",
+      "division": "Pacific",
       "teamColors": {
         "first": "Purple",
         "second": "Grey",
@@ -86,7 +86,7 @@
       "founded": 1968,
       "location": "Phoenix, Arizona",
       "conference": "Western",
-      "divison": "Pacific",
+      "division": "Pacific",
       "teamColors": {
         "first": "Purple",
         "second": "Orange",
@@ -112,7 +112,7 @@
       "founded": 1970,
       "location": "Los Angeles, California",
       "conference": "Western",
-      "divison": "Pacific",
+      "division": "Pacific",
       "teamColors": {
         "first": "Royal blue",
         "second": "Red",
@@ -138,7 +138,7 @@
       "founded": 1980,
       "location": "Dallas, Texas",
       "conference": "Western",
-      "divison": "Southwest",
+      "division": "Southwest",
       "teamColors": {
         "first": "Royal blue",
         "second": "Navy blue",
@@ -164,7 +164,7 @@
       "founded": 1967,
       "location": "San Antonio, Texas",
       "conference": "Western",
-      "divison": "Southwest",
+      "division": "Southwest",
       "teamColors": {
         "first": "Silver",
         "second": "Black",
@@ -190,7 +190,7 @@
       "founded": 2002,
       "location": "New Orleans, Louisiana",
       "conference": "Western",
-      "divison": "Southwest",
+      "division": "Southwest",
       "teamColors": {
         "first": "Navy Blue",
         "second": "Gold",
@@ -216,7 +216,7 @@
       "founded": 1995,
       "location": "Memphis, Tennessee",
       "conference": "Western",
-      "divison": "Southwest",
+      "division": "Southwest",
       "teamColors": {
         "first": "Blue",
         "second": "Gray",
@@ -242,7 +242,7 @@
       "founded": 1967,
       "location": "Houston, Texas",
       "conference": "Western",
-      "divison": "Southwest",
+      "division": "Southwest",
       "teamColors": {
         "first": "Red",
         "second": "Black",
@@ -268,7 +268,7 @@
       "founded": 1967,
       "location": "Denver, Colorado",
       "conference": "Western",
-      "divison": "Northwest",
+      "division": "Northwest",
       "teamColors": {
         "first": "Midnight blue",
         "second": "Sunshine yellow",
@@ -294,7 +294,7 @@
       "founded": 1989,
       "location": "Minneapolis, Minnesota",
       "conference": "Western",
-      "divison": "Northwest",
+      "division": "Northwest",
       "teamColors": {
         "first": "Midnight blue",
         "second": "Lake blue",
@@ -320,7 +320,7 @@
       "founded": 1967,
       "location": "Oklahoma City, Oklahoma",
       "conference": "Western",
-      "divison": "Northwest",
+      "division": "Northwest",
       "teamColors": {
         "first": "Thunder blue",
         "second": "Sunset",
@@ -346,7 +346,7 @@
       "founded": 1970,
       "location": "Portland, Oregon",
       "conference": "Western",
-      "divison": "Northwest",
+      "division": "Northwest",
       "teamColors": {
         "first": "Red",
         "second": "Black",
@@ -372,7 +372,7 @@
       "founded": 1974,
       "location": "Salt Lake City, Utah",
       "conference": "Western",
-      "divison": "Northwest",
+      "division": "Northwest",
       "teamColors": {
         "first": "Spotlight yellow",
         "second": "Black",
@@ -398,7 +398,7 @@
       "founded": 1946,
       "location": "Atlanta, Georgia",
       "conference": "Eastern",
-      "divison": "Southeast",
+      "division": "Southeast",
       "teamColors": {
         "first": "Torch Red",
         "second": "Legacy Yellow",
@@ -424,7 +424,7 @@
       "founded": 1988,
       "location": "Charlotte, North Carolina",
       "conference": "Eastern",
-      "divison": "Southeast",
+      "division": "Southeast",
       "teamColors": {
         "first": "Hornet Teal",
         "second": "Dark Purple",
@@ -450,7 +450,7 @@
       "founded": 1988,
       "location": "Miami, Florida",
       "conference": "Eastern",
-      "divison": "Southeast",
+      "division": "Southeast",
       "teamColors": {
         "first": "Black",
         "second": "Red",
@@ -476,7 +476,7 @@
       "founded": 1989,
       "location": "Orlando, Florida",
       "conference": "Eastern",
-      "divison": "Southeast",
+      "division": "Southeast",
       "teamColors": {
         "first": "Blue",
         "second": "Black",
@@ -502,7 +502,7 @@
       "founded": 1961,
       "location": "Washington, D.C.",
       "conference": "Eastern",
-      "divison": "Southeast",
+      "division": "Southeast",
       "teamColors": {
         "first": "Navy Blue",
         "second": "Red",
@@ -528,7 +528,7 @@
       "founded": 1966,
       "location": "Chicago, Illinois",
       "conference": "Eastern",
-      "divison": "Central",
+      "division": "Central",
       "teamColors": {
         "first": "Red",
         "second": "Black",
@@ -554,7 +554,7 @@
       "founded": 1970,
       "location": "Cleveland, Ohio",
       "conference": "Eastern",
-      "divison": "Central",
+      "division": "Central",
       "teamColors": {
         "first": "Wine",
         "second": "Gold",
@@ -580,7 +580,7 @@
       "founded": 1937,
       "location": "Detroit, Michigan",
       "conference": "Eastern",
-      "divison": "Central",
+      "division": "Central",
       "teamColors": {
         "first": "Royal Blue",
         "second": "Red",
@@ -606,7 +606,7 @@
       "founded": 1967,
       "location": "Indianapolis, Indiana",
       "conference": "Eastern",
-      "divison": "Central",
+      "division": "Central",
       "teamColors": {
         "first": "Navy Blue",
         "second": "Gold",
@@ -632,7 +632,7 @@
       "founded": 1968,
       "location": "Milwaukee, Wisconsin",
       "conference": "Eastern",
-      "divison": "Central",
+      "division": "Central",
       "teamColors": {
         "first": "Good Land Green",
         "second": "Cream City Cream",
@@ -658,7 +658,7 @@
       "founded": 1995,
       "location": "Toronto, Ontario",
       "conference": "Eastern",
-      "divison": "Atlantic",
+      "division": "Atlantic",
       "teamColors": {
         "first": "Red",
         "second": "Black",
@@ -684,7 +684,7 @@
       "founded": 1946,
       "location": "Philadelphia, Pennsylvania",
       "conference": "Eastern",
-      "divison": "Atlantic",
+      "division": "Atlantic",
       "teamColors": {
         "first": "Blue",
         "second": "Red",
@@ -710,7 +710,7 @@
       "founded": 1946,
       "location": "New York City, New York",
       "conference": "Eastern",
-      "divison": "Atlantic",
+      "division": "Atlantic",
       "teamColors": {
         "first": "Royal Blue",
         "second": "Orange",
@@ -736,7 +736,7 @@
       "founded": 1967,
       "location": "Brooklyn, New York",
       "conference": "Eastern",
-      "divison": "Atlantic",
+      "division": "Atlantic",
       "teamColors": {
         "first": "Black",
         "second": "White",
@@ -762,7 +762,7 @@
       "founded": 1946,
       "location": "Boston, Massachusetts",
       "conference": "Eastern",
-      "divison": "Atlantic",
+      "division": "Atlantic",
       "teamColors": {
         "first": "Green",
         "second": "White",
