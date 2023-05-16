@@ -1,6 +1,5 @@
 import './App.css'
 import teams from './teams.json'
-import SideBar from './components/SideBar.jsx'
 import Team from './components/Team.jsx'
 
 const App = () => {
@@ -11,7 +10,6 @@ const App = () => {
         {teams.results.map((team) => (
           <Team team={team} key={team.teamName} />
         ))}
-        <SideBar />
       </div>
     </div>
   )

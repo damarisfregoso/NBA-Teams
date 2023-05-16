@@ -1,5 +1,5 @@
 const Divison = (props) => {
-  switch (props.Divison) {
+  switch (props.team.divison) {
     case 'Pacific':
       break
     case 'Central':
@@ -14,5 +14,7 @@ const Divison = (props) => {
       break
   }
 
-  return <div className="divison">{props.divison}</div>
+  return <div className="divison">{props.team.divison}</div>
 }
+
+export default Divison
