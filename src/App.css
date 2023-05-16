@@ -1,14 +1,23 @@
 body {
   background-color: #dadada;
 }
+.title {
+  display: flex;
+  justify-content: center;
 
+  text-shadow: 5px 5px 5px black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(255, 157, 0);
+}
 #logo {
   display: flex;
   justify-content: center;
-  width: 6vh;
+  width: 10vh;
+  margin: 10px;
 }
 .info {
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
 }
 
@@ -18,7 +27,24 @@ body {
 }
 
 .team {
-  background-color: bisque;
-  padding: 20px;
-  margin: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  border-top: solid 1px black;
+  /* background-color: bisque; */
+  /* padding: 20px; */
+  margin: 1px;
+}
+
+.location {
+  display: flex;
+  justify-content: center;
+}
+
+.sidebar {
+  text-align: left;
+  background-color: blue;
+  border-left: 1px solid black;
+  width: 30vw;
+  padding: 4px;
 }
