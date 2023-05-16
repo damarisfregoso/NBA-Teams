@@ -1,7 +1,9 @@
 body {
   background-color: #dadada;
+  height: 100vh;
 }
-.title {
+
+header {
   display: flex;
   justify-content: center;
 
@@ -15,11 +17,11 @@ body {
   width: 10vh;
   margin: 10px;
 }
-.info {
+/* .info {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
-}
+} */
 
 .name {
   display: flex;
@@ -29,15 +31,17 @@ body {
 .team {
   display: flex;
   align-items: center;
-  flex-direction: row;
+  /* flex-direction: row; */
   border-top: solid 1px black;
   /* background-color: bisque; */
   /* padding: 20px; */
   margin: 1px;
+  width: 70vw;
 }
 
 .location {
   display: flex;
+  flex-direction: row;
 }
 
 .sidebar {
@@ -46,4 +50,11 @@ body {
   border-left: 1px solid black;
   width: 30vw;
   padding: 4px;
+}
+
+.info {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-gap: 2px;
 }

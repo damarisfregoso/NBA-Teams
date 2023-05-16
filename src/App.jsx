@@ -1,15 +1,26 @@
 import './App.css'
-import teams from './teams.json'
-import Team from './components/Team.jsx'
+import SideBar from './components/SideBar'
+import Divison from './components/Division'
 
 const App = () => {
+  const divisions = [
+    'Pacific',
+    'Central',
+    'Atlantic',
+    'Southeast',
+    'Southwest',
+    'Northwest'
+  ]
   return (
     <div className="App">
-      <h1 className="title">All Teams</h1>
+      <header>
+        <h1 className="title">All Teams</h1>
+      </header>
       <div className="info">
-        {teams.results.map((team) => (
-          <Team team={team} key={team.teamName} />
+        {divisions.map((division) => (
+          <Divison name={division} />
         ))}
+        <SideBar />
       </div>
     </div>
   )

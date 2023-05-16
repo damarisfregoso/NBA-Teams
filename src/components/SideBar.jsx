@@ -1,8 +1,11 @@
 const SideBar = () => {
   return (
-    <div className="sidebar">
-      <p>The Nba started in the 1900's</p>
-    </div>
+    <aside className="sidebar">
+      <p>
+        {' '}
+        fdkjkafjsdlkjfklajdkjfljasdlkfslkdjfjsdlkfjdlkjsfkladlkfnklasdnvkjnkjvnkjsnvkjdnakjnfkjadnfkjndfkndj
+      </p>
+    </aside>
   )
 }
 export default SideBar
