@@ -2,6 +2,7 @@
   "results": [
     {
       "teamName": "Los Angeles Lakers",
+      "merchandise": "https://store.nba.com/los-angeles-lakers/t-25031846+z-9030758-2040509788",
       "founded": 1947,
       "location": "Los Angeles, California",
       "conference": "Western",
@@ -31,6 +32,7 @@
     },
     {
       "teamName": "Golden State Warriors",
+      "merchandise": "",
       "founded": 1946,
       "location": "San Francisco, California",
       "conference": "Western",
@@ -57,6 +59,7 @@
     },
     {
       "teamName": "Sacramento Kings",
+      "merchandise": "",
       "founded": 1923,
       "location": "Sacramento, California",
       "conference": "Western",
@@ -83,6 +86,7 @@
     },
     {
       "teamName": "Phoenix Suns",
+      "merchandise": "",
       "founded": 1968,
       "location": "Phoenix, Arizona",
       "conference": "Western",
@@ -109,6 +113,7 @@
     },
     {
       "teamName": "Los Angeles Clippers",
+      "merchandise": "",
       "founded": 1970,
       "location": "Los Angeles, California",
       "conference": "Western",
@@ -135,6 +140,7 @@
     },
     {
       "teamName": "Dallas Mavericks",
+      "merchandise": "",
       "founded": 1980,
       "location": "Dallas, Texas",
       "conference": "Western",
@@ -161,6 +167,7 @@
     },
     {
       "teamName": "San Antonio Spurs",
+      "merchandise": "",
       "founded": 1967,
       "location": "San Antonio, Texas",
       "conference": "Western",
@@ -187,6 +194,7 @@
     },
     {
       "teamName": "New Orleans Pelicans",
+      "merchandise": "",
       "founded": 2002,
       "location": "New Orleans, Louisiana",
       "conference": "Western",
@@ -213,6 +221,7 @@
     },
     {
       "teamName": "Memphis Grizzlies",
+      "merchandise": "",
       "founded": 1995,
       "location": "Memphis, Tennessee",
       "conference": "Western",
@@ -239,6 +248,7 @@
     },
     {
       "teamName": "Houston Rockets",
+      "merchandise": "",
       "founded": 1967,
       "location": "Houston, Texas",
       "conference": "Western",
@@ -265,6 +275,7 @@
     },
     {
       "teamName": "Denver Nuggets",
+      "merchandise": "",
       "founded": 1967,
       "location": "Denver, Colorado",
       "conference": "Western",
@@ -291,6 +302,7 @@
     },
     {
       "teamName": "Minnesota Timberwolves",
+      "merchandise": "",
       "founded": 1989,
       "location": "Minneapolis, Minnesota",
       "conference": "Western",
@@ -317,6 +329,7 @@
     },
     {
       "teamName": "Oklahoma City Thunder",
+      "merchandise": "",
       "founded": 1967,
       "location": "Oklahoma City, Oklahoma",
       "conference": "Western",
@@ -343,6 +356,7 @@
     },
     {
       "teamName": "Portland Trail Blazers",
+      "merchandise": "",
       "founded": 1970,
       "location": "Portland, Oregon",
       "conference": "Western",
@@ -369,6 +383,7 @@
     },
     {
       "teamName": "Utah Jazz",
+      "merchandise": "",
       "founded": 1974,
       "location": "Salt Lake City, Utah",
       "conference": "Western",
@@ -395,6 +410,7 @@
     },
     {
       "teamName": "Atlanta Hawks",
+      "merchandise": "",
       "founded": 1946,
       "location": "Atlanta, Georgia",
       "conference": "Eastern",
@@ -421,6 +437,7 @@
     },
     {
       "teamName": "Charlotte Hornets",
+      "merchandise": "",
       "founded": 1988,
       "location": "Charlotte, North Carolina",
       "conference": "Eastern",
@@ -447,6 +464,7 @@
     },
     {
       "teamName": "Miami Heat",
+      "merchandise": "",
       "founded": 1988,
       "location": "Miami, Florida",
       "conference": "Eastern",
@@ -473,6 +491,7 @@
     },
     {
       "teamName": "Orlando Magic",
+      "merchandise": "",
       "founded": 1989,
       "location": "Orlando, Florida",
       "conference": "Eastern",
@@ -499,6 +518,7 @@
     },
     {
       "teamName": "Washington Wizards",
+      "merchandise": "",
       "founded": 1961,
       "location": "Washington, D.C.",
       "conference": "Eastern",
@@ -525,6 +545,7 @@
     },
     {
       "teamName": "Chicago Bulls",
+      "merchandise": "",
       "founded": 1966,
       "location": "Chicago, Illinois",
       "conference": "Eastern",
@@ -551,6 +572,7 @@
     },
     {
       "teamName": "Cleveland Cavaliers",
+      "merchandise": "",
       "founded": 1970,
       "location": "Cleveland, Ohio",
       "conference": "Eastern",
@@ -577,6 +599,7 @@
     },
     {
       "teamName": "Detroit Pistons",
+      "merchandise": "",
       "founded": 1937,
       "location": "Detroit, Michigan",
       "conference": "Eastern",
@@ -603,6 +626,7 @@
     },
     {
       "teamName": "Indiana Pacers",
+      "merchandise": "",
       "founded": 1967,
       "location": "Indianapolis, Indiana",
       "conference": "Eastern",
@@ -629,6 +653,7 @@
     },
     {
       "teamName": "Milwaukee Bucks",
+      "merchandise": "",
       "founded": 1968,
       "location": "Milwaukee, Wisconsin",
       "conference": "Eastern",
@@ -655,6 +680,7 @@
     },
     {
       "teamName": "Toronto Raptors",
+      "merchandise": "",
       "founded": 1995,
       "location": "Toronto, Ontario",
       "conference": "Eastern",
@@ -681,6 +707,7 @@
     },
     {
       "teamName": "Philadelphia 76ers",
+      "merchandise": "",
       "founded": 1946,
       "location": "Philadelphia, Pennsylvania",
       "conference": "Eastern",
@@ -707,6 +734,7 @@
     },
     {
       "teamName": "New York Knicks",
+      "merchandise": "",
       "founded": 1946,
       "location": "New York City, New York",
       "conference": "Eastern",
@@ -733,6 +761,7 @@
     },
     {
       "teamName": "Brooklyn Nets",
+      "merchandise": "",
       "founded": 1967,
       "location": "Brooklyn, New York",
       "conference": "Eastern",
@@ -759,6 +788,7 @@
     },
     {
       "teamName": "Boston Celtics",
+      "merchandise": "",
       "founded": 1946,
       "location": "Boston, Massachusetts",
       "conference": "Eastern",
