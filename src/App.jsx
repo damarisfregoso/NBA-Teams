@@ -16,12 +16,14 @@ const App = () => {
       <header>
         <h1 className="title">All Teams</h1>
       </header>
-      <div className="info">
-        {divisions.map((division) => (
-          <Division name={division} />
-        ))}
+      <main>
+        <div className="info">
+          {divisions.map((division) => (
+            <Division name={division} key={division.name} />
+          ))}
+        </div>
         <SideBar />
-      </div>
+      </main>
     </div>
   )
 }

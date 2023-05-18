@@ -11,7 +11,7 @@ const division = (props) => {
             return team.division === props.name
           })
           .map((team) => (
-            <Team team={team} />
+            <Team team={team} key={team.teamName} />
           ))}
       </div>
     </div>

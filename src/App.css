@@ -1,6 +1,5 @@
 body {
   background-color: #dadada;
-  height: 100vh;
 }
 
 header {
@@ -11,6 +10,22 @@ header {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color: rgb(255, 157, 0);
 }
+
+h1 {
+  text-shadow: 5px 5px 5px black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(255, 157, 0);
+}
+
+main {
+  display: flex;
+  width: 100vw;
+}
+
+aside {
+  width: 20vw;
+}
+
 #logo {
   display: flex;
   justify-content: center;
@@ -36,25 +51,44 @@ header {
   /* background-color: bisque; */
   /* padding: 20px; */
   margin: 1px;
-  width: 70vw;
+  width: 80vw;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .location {
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
 }
 
 .sidebar {
-  text-align: left;
-  background-color: blue;
+  text-align: center;
   border-left: 1px solid black;
-  width: 30vw;
+  width: 20vw;
   padding: 4px;
+
+  background: url(https://s3.envato.com/files/230057146/Falling_Basketball_still.jpg);
 }
 
 .info {
-  display: grid;
+  width: 80vw;
+
+  /* display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr 1fr 1fr;
-  grid-gap: 2px;
+  grid-gap: 2px; */
+}
+
+.start {
+  display: flex;
+  justify-content: center;
+}
+
+.NBA-info {
+  color: whitesmoke;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.nbaLogo {
+  width: 5vh;
 }

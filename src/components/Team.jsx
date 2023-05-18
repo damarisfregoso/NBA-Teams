@@ -1,5 +1,3 @@
-import Division from './Division'
-
 const Team = (props) => {
   return (
     <div className="team">
