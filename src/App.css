@@ -26,6 +26,13 @@ aside {
   width: 20vw;
 }
 
+.footerNames {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+}
+
 #logo {
   display: flex;
   justify-content: center;
@@ -64,8 +71,8 @@ aside {
 
 .location {
   display: flex;
-  flex-wrap: wrap;
   flex-direction: row;
+  gap: 20px;
 }
 
 .sidebar {
@@ -98,4 +105,10 @@ aside {
 
 .nbaLogo {
   width: 5vh;
+}
+
+.Merchandise {
+  display: flex;
+  justify-content: center;
+  border-top: 5px solid black;
 }

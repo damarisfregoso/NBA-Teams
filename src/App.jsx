@@ -24,13 +24,15 @@ const App = () => {
             <Division name={division} key={division.name} />
           ))}
         </div>
-        <div className="footerNames">
-          {team.results.map((name) => (
-            <Footer name={name} key={name.teamName} />
-          ))}
-        </div>
+
         <SideBar />
       </main>
+      <h1 className="Merchandise">Merchandise</h1>
+      <div className="footerNames">
+        {team.results.map((name) => (
+          <Footer name={name} key={name.teamName} />
+        ))}
+      </div>
     </div>
   )
 }

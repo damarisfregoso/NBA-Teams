@@ -1,8 +1,10 @@
 const Footer = (props) => {
   return (
-    <div className="Footer">
-      <h5>{props.name.teamName}</h5>
-    </div>
+    <footer className="Footer">
+      <div>
+        <h5>{props.name.teamName}</h5>
+      </div>
+    </footer>
   )
 }
 export default Footer
