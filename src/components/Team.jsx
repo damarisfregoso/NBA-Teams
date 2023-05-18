@@ -1,7 +1,6 @@
 import Tiny from './Tiny'
 
 const Team = (props) => {
-  console.log(props.team)
   return (
     <div className="team">
       <img src={props.team.pictureLogo} alt={props.team.teamName} id="logo" />

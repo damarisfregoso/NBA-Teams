@@ -26,6 +26,9 @@ aside {
   width: 20vw;
   /* margin: 30px; */
 }
+aside.tiny {
+  width: 20vw;
+}
 
 .footerNames {
   text-align: center;
@@ -108,4 +111,7 @@ aside {
   border-top: 1px solid black;
   border-bottom: 1px solid black;
   padding: 5px;
+}
+
+.tiny {
 }
