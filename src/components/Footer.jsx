@@ -2,7 +2,9 @@ const Footer = (props) => {
   return (
     <footer className="Footer">
       <div>
-        <h5>{props.name.teamName}</h5>
+        <a href={props.name.merchandise}>
+          <h5>{props.name.teamName}</h5>
+        </a>
       </div>
     </footer>
   )
