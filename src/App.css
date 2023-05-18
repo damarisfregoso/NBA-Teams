@@ -46,6 +46,8 @@ aside {
 .team {
   display: flex;
   align-items: center;
+  flex-grow: 1;
+  display: block;
   /* flex-direction: row; */
   border-top: solid 1px black;
   /* background-color: bisque; */
@@ -53,6 +55,11 @@ aside {
   margin: 1px;
   width: 80vw;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.teams {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .location {
