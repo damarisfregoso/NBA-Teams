@@ -18,6 +18,17 @@ const SideBar = () => {
           This professional basketball league in North American is composed of
           30 teams. 29 in the United States and 1 in Canada.
         </p>
+        <p>The commissioner for the NBA is Adam Silver.</p>
+        <p>
+          The Lakers and the Celtics are the two teams tied with the most NBA
+          championship rings.
+        </p>
+        <p>
+          The National Basketball Association started surging popularity from
+          1979-1998 due to having amazing basketball players like Larry Bird and
+          Magic Johnson. This lead to the significant growth of fan interest.
+        </p>
+        <p>The NBA headquarters is in New York City on 645 Fifth Avenue </p>
       </div>
     </aside>
   )
