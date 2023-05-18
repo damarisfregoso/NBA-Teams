@@ -34,6 +34,10 @@ aside {
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 }
 
+.links {
+  color: black;
+}
+
 #logo {
   display: flex;
   justify-content: center;
