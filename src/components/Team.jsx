@@ -1,3 +1,6 @@
+import team from '../teams.json'
+import Tiny from './Tiny'
+
 const Team = (props) => {
   return (
     <div className="team">
@@ -7,6 +10,11 @@ const Team = (props) => {
         <h3 className="conference">Conference: {props.team.conference}</h3>
         <h3 className="founded">Founded: {props.team.founded}</h3>
       </div>
+      {/* <div className="teamSidebar">
+        {team.results.retiredNumber.map((number) => (
+          <Tiny number={number} key={number.teamName} />
+        ))}
+      </div> */}
     </div>
   )
 }
